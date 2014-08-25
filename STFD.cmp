@@ -1,0 +1,283 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-18 BZR 4017)-stable date = Sun 10 Aug 2014 16:57:39 CST
+
+BeginCmp
+TimeStamp = /53E7B895;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = S2B-PH-SM4-TB;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7B929;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7C223;
+Reference = C2;
+ValeurCmp = 0.1n;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7B8EE;
+Reference = C3;
+ValeurCmp = 0.33u;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7C3DC;
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E8003C;
+Reference = C5;
+ValeurCmp = 4.7n;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E80028;
+Reference = D1;
+ValeurCmp = 4.7V;
+IdModule  = DO-35;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7F8ED;
+Reference = D2;
+ValeurCmp = 3.3V;
+IdModule  = DO-35;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7CB29;
+Reference = J1;
+ValeurCmp = 3.5MMJACK;
+IdModule  = 3.5mmJack_Sparkfun;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E85328;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7B886;
+Reference = MIC1;
+ValeurCmp = MIC;
+IdModule  = CMA_4544PF_W;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D209;
+Reference = MP1;
+ValeurCmp = SCREW-6-32;
+IdModule  = SCREW_6_32;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D216;
+Reference = MP2;
+ValeurCmp = SCREW-6-32;
+IdModule  = SCREW_6_32;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D21C;
+Reference = MP3;
+ValeurCmp = SCREW-6-32;
+IdModule  = SCREW_6_32;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D24C;
+Reference = MP4;
+ValeurCmp = SCREW-6-32;
+IdModule  = SCREW_6_32;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7F402;
+Reference = P1;
+ValeurCmp = BATT;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E845B1;
+Reference = P2;
+ValeurCmp = IO;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7BF90;
+Reference = R1;
+ValeurCmp = R_PU;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7B8E8;
+Reference = R2;
+ValeurCmp = 2k2;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7BAB5;
+Reference = R3;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7C3D6;
+Reference = R4;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7BBE4;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7BBEA;
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7C008;
+Reference = R7;
+ValeurCmp = R_OPTO;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7BAF4;
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7BC86;
+Reference = R9;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D53A;
+Reference = R10;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D4A6;
+Reference = R11;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D8F2;
+Reference = R12;
+ValeurCmp = 0R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7FCD0;
+Reference = R13;
+ValeurCmp = R_PIEZO;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7FF41;
+Reference = R14;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E80EEB;
+Reference = R15;
+ValeurCmp = 1k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E8101D;
+Reference = R16;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7BB6A;
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = RV2X4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7D857;
+Reference = SW1;
+ValeurCmp = HALF_PRESS;
+IdModule  = FSM4JSMA_pushbutton;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7B8C7;
+Reference = U1;
+ValeurCmp = LM555N;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7B85C;
+Reference = U2;
+ValeurCmp = LM358;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7B8B8;
+Reference = U3;
+ValeurCmp = LTV-816;
+IdModule  = DIP_4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E82D07;
+Reference = U4;
+ValeurCmp = QRB1134;
+IdModule  = HEADER-4x0.1inch;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E7FD68;
+Reference = X1;
+ValeurCmp = PIEZO;
+IdModule  = SIL-2;
+EndCmp
+
+EndListe
